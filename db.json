@@ -2,7 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Film",
+      "year": "2017",
+      "plot": "hier het plot",
+      "rating": "6.8/10"
     },
     {
       "id": 2,
