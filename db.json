@@ -5,6 +5,7 @@
       "title": "Film",
       "year": "2017",
       "plot": "hier het plot",
+      "actors": "hier de acteur(s)",
       "source": "hier de rating site",
       "rating": "6.8/10",
       "viewed": false
@@ -14,6 +15,7 @@
       "title": "Film 2",
       "year": "2015",
       "plot": "hier het plot",
+      "actors": "hier de acteur(s)",
       "source": "hier de rating site",
       "rating": "8.1/10",
       "viewed": true
@@ -23,6 +25,7 @@
       "title": "Film 3",
       "year": "1999",
       "plot": "hier het plot",
+      "actors": "hier de acteur(s)",
       "source": "hier de rating site",
       "rating": "7.5/10",
       "viewed": false
